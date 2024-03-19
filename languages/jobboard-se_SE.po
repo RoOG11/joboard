@@ -1,0 +1,3659 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-07-16 18:40+0600\n"
+"PO-Revision-Date: 2021-08-22 07:19+0000\n"
+"Last-Translator: \n"
+"Language-Team: Northern Sami (Sweden)\n"
+"Language: se_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/pages/metabox_full_data.php:58
+#: template/private-profile/profile-edit-post-1.php:125
+#: template/private-profile/profile-new-post-1.php:118
+msgid " : Logo, Email, Phone, Website"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:211
+msgid " [Your Current Package]"
+msgstr ""
+
+#: template/listing/job-filter.php:306
+#: template/listing/jobboard_featured.php:200
+#: template/listing/listing-carousel.php:257
+msgid " Baths "
+msgstr ""
+
+#: template/listing/job-filter.php:298
+#: template/listing/jobboard_featured.php:192
+#: template/listing/listing-carousel.php:249
+msgid " Bedrooms"
+msgstr ""
+
+#: admin/pages/package_all.php:162
+msgid " Edit"
+msgstr ""
+
+#: admin/pages/package_create.php:84 admin/pages/package_update.php:111
+msgid " fa-arrows-v"
+msgstr ""
+
+#: template/listing/job-filter.php:314
+#: template/listing/jobboard_featured.php:208
+#: template/listing/listing-carousel.php:265
+msgid " Garage "
+msgstr ""
+
+#: template/listing/job-filter.php:322
+#: template/listing/jobboard_featured.php:216
+#: template/listing/listing-carousel.php:273
+msgid " Guest "
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:61
+#: template/private-profile/profile-edit-post-1.php:128
+#: template/private-profile/profile-new-post-1.php:121
+msgid " New Contact Info"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:360
+#: template/private-profile/profile-edit-post-1.php:544
+msgid " Set Image "
+msgstr ""
+
+#: admin/pages/all_coupons.php:29
+msgid " The Coupon Create Successfully "
+msgstr ""
+
+#: template/signup/wizard-style-2.php:146
+msgid " The user name has to be an alphanumeric value between 4-12 characters"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:58
+#: template/private-profile/profile-edit-post-1.php:125
+#: template/private-profile/profile-new-post-1.php:118
+msgid " Use The company Info ->"
+msgstr ""
+
+#: admin/pages/package_update.php:668
+msgid "\"Billing Amount\" will Collect After Trial Period."
+msgstr ""
+
+#: admin/pages/package_create.php:644
+msgid "\"Billing Amount\" will Collect After Trial Period. "
+msgstr ""
+
+#: template/private-profile/edit-resume.php:65
+msgid "$68"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:13
+msgid "(-) Discount"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:276
+msgid "(filtered from _MAX_ total records)"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:41
+#: template/private-profile/edit-resume.php:47
+msgid "+01 233 846 6754"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:86
+msgid "--"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:74
+#: template/signup/iv_stripe_form_2.php:94
+msgid "01"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:75
+#: template/signup/iv_stripe_form_2.php:95
+msgid "02"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:76
+#: template/signup/iv_stripe_form_2.php:96
+msgid "03"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:77
+#: template/signup/iv_stripe_form_2.php:97
+msgid "04"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:78
+#: template/signup/iv_stripe_form_2.php:98
+msgid "05"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:79
+#: template/signup/iv_stripe_form_2.php:99
+msgid "06"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:80
+#: template/signup/iv_stripe_form_2.php:100
+msgid "07"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:81
+#: template/signup/iv_stripe_form_2.php:101
+msgid "08"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:82
+#: template/signup/iv_stripe_form_2.php:102
+msgid "09"
+msgstr ""
+
+#: admin/pages/payment-settings.php:42
+msgid "1"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:83
+#: template/signup/iv_stripe_form_2.php:103
+msgid "10"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:414
+#: template/listing/archive_feature_listing2.php:192
+msgid "10000 - 30000"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:84
+#: template/signup/iv_stripe_form_2.php:104
+msgid "11"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:85
+#: template/signup/iv_stripe_form_2.php:105
+msgid "12"
+msgstr ""
+
+#: admin/pages/payment-settings.php:53
+msgid "2"
+msgstr ""
+
+#: admin/pages/dir_setting.php:466
+msgid "20 is more Zoom, 1 is less zoom"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:417
+#: template/listing/archive_feature_listing2.php:195
+msgid "30000 - 50000"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:420
+#: template/listing/archive_feature_listing2.php:198
+msgid "50000 - 80000"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:423
+#: template/listing/archive_feature_listing2.php:201
+msgid "80000 - 100000"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:411
+#: template/listing/archive_feature_listing2.php:189
+msgid ">10000"
+msgstr ""
+
+#: admin/pages/city_image.php:6
+msgid "[Cities will get from your listings]"
+msgstr ""
+
+#: admin/pages/user_update.php:69
+msgid "[User Current Package]"
+msgstr ""
+
+#: template/private-profile/employer-edit-profile.php:125
+#: template/profile-public/employer-profile.php:126
+msgid "About Company"
+msgstr ""
+
+#: admin/pages/package_create.php:511 admin/pages/package_update.php:539
+msgid "Access Control"
+msgstr ""
+
+#: admin/pages/all_coupons.php:45 admin/pages/directory_fields.php:41
+#: admin/pages/package_all.php:96 admin/pages/payment-settings.php:37
+#: admin/pages/profile-fields.php:28 admin/pages/user_directory_admin.php:40
+#: template/private-profile/candidates_all.php:115
+#: template/private-profile/candidates_deleted.php:91
+#: template/private-profile/candidates_meeting_schedule.php:104
+#: template/private-profile/candidates_shortlisted.php:105
+msgid "Action"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:264
+#: template/private-profile/profile-edit-post-1.php:439
+#: template/private-profile/profile-new-post-1.php:401
+msgid "Add Images"
+msgstr ""
+
+#: admin/pages/directory_fields.php:71
+#: template/private-profile/edit-resume.php:522
+msgid "Add More"
+msgstr ""
+
+#: admin/pages/package_create.php:498 admin/pages/package_update.php:526
+msgid "Add More Feature"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:31
+#: template/private-profile/profile-new-post-1.php:10
+msgid "Add New Job"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:198
+msgid "Add New Professional Skills"
+msgstr ""
+
+#: template/profile-public/candidate-profile.php:108
+#: template/profile-public/candidate-profile.php:399
+#: template/profile-public/employer-profile.php:114
+#: template/profile-public/employer-profile.php:281
+msgid "Add to Boobmark"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:580
+#: template/listing/archive-job-style-2.php:611
+#: template/listing/single-job.php:128 template/listing/single-job.php:555
+#: template/profile-public/employer-profile.php:300
+msgid "Add to Favorites"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:82
+msgid "Add/Edit Company Logo"
+msgstr ""
+
+#: template/profile-public/candidate-profile.php:107
+#: template/profile-public/candidate-profile.php:400
+#: template/profile-public/employer-profile.php:113
+#: template/profile-public/employer-profile.php:282
+msgid "Added to Boobmark"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:581
+#: template/listing/archive-job-style-2.php:612
+#: template/listing/single-job.php:122 template/listing/single-job.php:556
+#: template/profile-public/employer-profile.php:301
+msgid "Added to Favorites"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:94
+#: template/private-profile/employer-edit-profile.php:94
+#: template/private-profile/profile-edit-post-1.php:156
+#: template/private-profile/profile-new-post-1.php:142
+msgid "Address"
+msgstr ""
+
+#: admin/pages/settings.php:281
+msgid "Admin Email Subject :"
+msgstr ""
+
+#: admin/pages/settings.php:290
+msgid "Admin Email Tempalte :"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:158
+msgid ""
+"Aerial,Architecture,Automotive,Event,Fashion,Food,Interior,Lifestye,"
+"Maternity,Newborns,Nature,Land"
+msgstr ""
+
+#: admin/pages/package_create.php:676
+msgid "After The Trial Period \"Billing Amount\"\tWill Be Billed."
+msgstr ""
+
+#: admin/pages/package_update.php:703
+msgid "After The Trial Period \"Billing Amount\"\tWill Be Billed.\t"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:78
+#: template/profile-public/candidate-profile.php:334
+msgid "Age"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:170
+#: template/private-profile/profile-edit-post-1.php:353
+#: template/private-profile/profile-new-post-1.php:326
+msgid "Age Range"
+msgstr ""
+
+#: template/private-profile/employer-manage-candidates.php:20
+msgid "All"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:21
+msgid "All Jobs "
+msgstr ""
+
+#: admin/pages/package_all.php:74
+msgid "All Package / Membership Level "
+msgstr ""
+
+#: admin/pages/dir-demo.php:84
+msgid "All Shortcodes"
+msgstr ""
+
+#: template/listing/apply-form.php:25
+msgid "Allowed file types are(.doc, .docx, .pdf) "
+msgstr ""
+
+#: admin/pages/all_coupons.php:44 admin/pages/coupon_create.php:76
+#: admin/pages/coupon_update.php:92 admin/pages/package_all.php:91
+#: admin/pages/package_create.php:602
+#: template/private-profile/iv_stripe_form_upgrade.php:53
+#: template/private-profile/profile-level-1.php:231
+#: template/private-profile/profile-level-1.php:308
+#: template/signup/iv_stripe_form_2.php:60 template/signup/paypal_form_2.php:45
+#: template/signup/woocommerce.php:52
+msgid "Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:652 admin/pages/package_update.php:676
+msgid ""
+"Amount to Bill for The Trial Period. Free is 0.[Stripe will not support this "
+"option ]"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:188
+#: template/private-profile/profile-edit-post-1.php:371
+#: template/private-profile/profile-new-post-1.php:345
+msgid "Any"
+msgstr ""
+
+#: template/listing/slider-search.php:75
+msgid "Any Category"
+msgstr ""
+
+#: template/listing/slider-search.php:61
+msgid "Any Type"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:175
+#: template/private-profile/profile-edit-post-1.php:358
+#: template/private-profile/profile-new-post-1.php:331
+msgid ""
+"Any, Below 20 years, 20 - < 30 Years, 30 - < 40 Years,40 - < 50 Years,Over "
+"50 Years"
+msgstr ""
+
+#: template/private-profile/employer-manage-candidates.php:15
+msgid "Applicants"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:198
+#: template/private-profile/profile-edit-post-1.php:381
+#: template/private-profile/profile-new-post-1.php:355
+msgid "Application Deadline"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:108
+msgid "Applications"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:182
+#: template/private-profile/candidates_deleted.php:158
+#: template/private-profile/candidates_meeting_schedule.php:182
+#: template/private-profile/candidates_shortlisted.php:183
+msgid "Applied : "
+msgstr ""
+
+#: template/private-profile/candidates_all.php:167
+#: template/private-profile/candidates_deleted.php:143
+#: template/private-profile/candidates_meeting_schedule.php:156
+#: template/private-profile/candidates_shortlisted.php:157
+msgid "Applied For : "
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:578
+#: template/profile-public/employer-profile.php:185
+msgid "Apply"
+msgstr ""
+
+#: admin/pages/new-message.php:48
+msgid "Apply Email"
+msgstr ""
+
+#: template/listing/apply_popup.php:29
+msgid "Apply From Your Account "
+msgstr ""
+
+#: template/listing/apply_popup.php:15 template/listing/single-job.php:117
+msgid "Apply Now"
+msgstr ""
+
+#: template/listing/apply_popup.php:42
+msgid "Applyed Already"
+msgstr ""
+
+#: admin/pages/metabox.php:29
+msgid "Approve"
+msgstr ""
+
+#: admin/pages/new-message.php:51
+msgid "Appy Subject : "
+msgstr ""
+
+#: admin/admin.php:239 template/private-profile/profile-template-1.php:263
+msgid "Are you sure to cancel this Membership"
+msgstr ""
+
+#: admin/pages/dir_setting.php:242 template/listing/archive-job-style-2.php:138
+#: template/listing/archive-job-style-2.php:540
+msgid "Area"
+msgstr ""
+
+#: admin/pages/paypal_update.php:61 admin/pages/stripe_update.php:71
+msgid "Australian Dollars ($)"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:458
+#: template/private-profile/edit-resume.php:498
+msgid "Award Title"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:116
+#: template/private-profile/profile-edit-post-1.php:299
+#: template/private-profile/profile-new-post-1.php:274
+msgid "Bachelor Degree"
+msgstr ""
+
+#: template/private-profile/profile-login.php:66
+msgid "Back"
+msgstr ""
+
+#: admin/pages/new-message.php:2
+msgid "BCC to Admin all Message :"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:548
+msgid "Beginner"
+msgstr ""
+
+#: admin/pages/package_create.php:600 admin/pages/package_update.php:623
+msgid "Billing Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:624 admin/pages/package_update.php:648
+msgid "Billing Cycle Limit"
+msgstr ""
+
+#: admin/pages/package_create.php:536 admin/pages/package_update.php:561
+msgid "Billing Details"
+msgstr ""
+
+#: admin/pages/paypal_update.php:62 admin/pages/stripe_update.php:72
+msgid "Brazilian Real (R$)"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Build Paid job board Listing using Wordpress.No programming knowledge "
+"required."
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:294
+#: template/private-profile/profile-edit-post-1.php:467
+#: template/private-profile/profile-new-post-1.php:430
+msgid "Button Setting"
+msgstr ""
+
+#: admin/pages/paypal_update.php:63 admin/pages/stripe_update.php:73
+msgid "Canadian Dollars ($)"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:28
+msgid "Cancel"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:360
+#: template/private-profile/profile-level-1.php:387
+msgid "Cancel Membership"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:355
+#: template/private-profile/profile-level-1.php:383
+msgid "Cancel Reason"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:356
+#: template/private-profile/profile-level-1.php:384
+msgid "Canceling Reason"
+msgstr ""
+
+#: admin/pages/user_update.php:100
+msgid "Candidate"
+msgstr ""
+
+#: admin/pages/profile-fields.php:195
+msgid "Candidate Bookmarks"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:159
+msgid "Candidate Directory:"
+msgstr ""
+
+#: template/user-directory/candidate-directory.php:249
+msgid "Candidate Found"
+msgstr ""
+
+#: admin/pages/manage-cpt-columns.php:26
+msgid "Candidate Name"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:213
+msgid "Candidate Public Profile:"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:64
+msgid "Card CVV"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:84
+msgid "Card CVV "
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:58
+#: template/signup/iv_stripe_form_2.php:78
+msgid "Card Number"
+msgstr ""
+
+#: template/listing/single-job.php:211 template/pdf/pdf_post.php:100
+msgid "Career Level"
+msgstr ""
+
+#: admin/pages/dir_setting.php:84 template/listing/archive-job-style-2.php:110
+#: template/listing/archive-job-style-2.php:463
+#: template/private-profile/profile-edit-post-1.php:171
+#: template/private-profile/profile-new-post-1.php:159
+#: template/profile-public/employer-profile.php:220
+#: template/user-directory/candidate-directory.php:43
+#: template/user-directory/employer-directory.php:45
+msgid "Categories"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:589
+msgid "Category"
+msgstr ""
+
+#: admin/pages/map_marker.php:20
+msgid "Category Image"
+msgstr ""
+
+#: admin/pages/map_marker.php:7
+msgid "Category Image / Map Marker"
+msgstr ""
+
+#: admin/pages/settings.php:16
+msgid "Category Image/Marker"
+msgstr ""
+
+#: admin/pages/map_marker.php:17
+msgid "Category Main"
+msgstr ""
+
+#: admin/pages/map_marker.php:65 admin/pages/map_marker.php:119
+#: template/private-profile/edit-resume.php:26
+msgid "Change Image"
+msgstr ""
+
+#: template/private-profile/employer-edit-profile.php:17
+msgid "Change Logo"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:14
+#: template/private-profile/profile-setting-1.php:53
+msgid "Change Password"
+msgstr ""
+
+#: admin/pages/paypal_update.php:64 admin/pages/stripe_update.php:74
+msgid "Chinese Yuan"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:166
+msgid "Choose a Category"
+msgstr ""
+
+#: template/listing/slider-search.php:44
+msgid "Choose a City"
+msgstr ""
+
+#: admin/pages/city_image.php:6 admin/pages/settings.php:17
+msgid "Cities Images"
+msgstr ""
+
+#: admin/pages/dir_setting.php:189 template/listing/archive-job-style-2.php:124
+#: template/listing/archive-job-style-2.php:533
+#: template/private-profile/edit-resume.php:114
+#: template/private-profile/employer-edit-profile.php:101
+msgid "City"
+msgstr ""
+
+#: admin/pages/city_image.php:17
+msgid "City Image"
+msgstr ""
+
+#: admin/pages/city_image.php:16
+msgid "City Name"
+msgstr ""
+
+#: template/listing/contact_popup.php:27
+msgid "Close"
+msgstr ""
+
+#: admin/pages/csv-import.php:16
+msgid "Column mapping"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:364
+#: template/private-profile/edit-resume.php:417
+msgid "Company"
+msgstr ""
+
+#: template/profile-public/employer-profile.php:204
+msgid "Company Information"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:130
+msgid "Company Logo"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:86
+#: template/private-profile/employer-edit-profile.php:25
+#: template/private-profile/profile-edit-post-1.php:148
+#: template/private-profile/profile-new-post-1.php:134
+msgid "Company Name"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:87
+#: template/private-profile/profile-edit-post-1.php:149
+#: template/private-profile/profile-new-post-1.php:135
+msgid "Company name"
+msgstr ""
+
+#: template/private-profile/employer-edit-profile.php:55
+msgid "Company Type"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:210 template/listing/single-job.php:404
+#: template/pdf/pdf_post.php:116
+#: template/private-profile/profile-edit-post-1.php:393
+#: template/private-profile/profile-new-post-1.php:367
+msgid "Compensation & Other Benefits"
+msgstr ""
+
+#: admin/pages/dir_setting.php:349
+msgid "Contact Form"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:49
+#: template/private-profile/profile-edit-post-1.php:116
+#: template/private-profile/profile-new-post-1.php:108
+msgid "Contact Info"
+msgstr ""
+
+#: template/profile-public/employer-profile.php:234
+msgid "Contact Us"
+msgstr ""
+
+#: admin/pages/dir_setting.php:47
+msgid "Content Background color [List View]"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:102
+#: template/private-profile/employer-edit-profile.php:119
+msgid "Country"
+msgstr ""
+
+#: admin/pages/coupon_update.php:94
+msgid "Coupon Amount [ Only Amount no Currency ]"
+msgstr ""
+
+#: admin/pages/all_coupons.php:40
+msgid "Coupon Code/ Name"
+msgstr ""
+
+#: admin/pages/all_coupons.php:25
+msgid "Coupon List"
+msgstr ""
+
+#: admin/pages/coupon_create.php:18 admin/pages/coupon_update.php:29
+msgid "Coupon Name"
+msgstr ""
+
+#: admin/pages/coupon_create.php:78
+msgid "Coupon number [ no currency or comma ]"
+msgstr ""
+
+#: template/listing/apply-form.php:17 template/listing/apply_popup.php:49
+msgid "Cover Letter"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:134
+msgid "Cover Letter/Objective"
+msgstr ""
+
+#: admin/pages/dir-demo.php:56
+msgid "Create a full width page and paste the code"
+msgstr ""
+
+#: admin/pages/all_coupons.php:19 admin/pages/all_coupons.php:81
+msgid "Create A New Coupon"
+msgstr ""
+
+#: admin/pages/package_all.php:68 admin/pages/package_all.php:182
+msgid "Create A New Package"
+msgstr ""
+
+#: template/private-profile/profile-login.php:47
+msgid "Create an account"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:33
+msgid "Create Date"
+msgstr ""
+
+#: admin/pages/map_marker.php:7
+msgid "Create New Caterory"
+msgstr ""
+
+#: admin/pages/coupon_create.php:9
+msgid "Create New Coupon "
+msgstr ""
+
+#: admin/pages/package_create.php:17
+msgid "Create Package / Membership Level"
+msgstr ""
+
+#: admin/pages/dir_setting.php:479
+msgid ""
+"Cron JOB Detail : Hide Listing( Package setting),Subscription Remainder "
+"email."
+msgstr ""
+
+#: admin/pages/dir_setting.php:471
+msgid "Cron Job URL"
+msgstr ""
+
+#: admin/pages/importer/upload_main_big_csv.php:45
+msgid "CSV Column Title/Name"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:22
+msgid "Current"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:48
+msgid "Current Package"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:40
+msgid "Current Password"
+msgstr ""
+
+#: template/private-profile/candidates_meeting_schedule.php:276
+msgid "Currently you have no listings added."
+msgstr ""
+
+#: admin/pages/manage-cpt-columns.php:30
+msgid "CV"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:67
+msgid "CVV number is not correct"
+msgstr ""
+
+#: admin/pages/package_create.php:606 admin/pages/package_update.php:629
+msgid "Cycle #"
+msgstr ""
+
+#: admin/pages/paypal_update.php:65 admin/pages/stripe_update.php:75
+msgid "Czech Koruna"
+msgstr ""
+
+#: admin/pages/paypal_update.php:66 admin/pages/stripe_update.php:76
+msgid "Danish Krone"
+msgstr ""
+
+#: template/private-profile/candidate-menu.php:35
+msgid "Dashboard"
+msgstr ""
+
+#: admin/pages/package_create.php:564 admin/pages/package_create.php:610
+#: admin/pages/package_create.php:669 admin/pages/package_update.php:587
+#: admin/pages/package_update.php:634 admin/pages/package_update.php:696
+msgid "Day(s)"
+msgstr ""
+
+#: admin/pages/dir_setting.php:101 admin/pages/manage-cpt-columns.php:9
+#: template/listing/archive-job-style-2.php:470
+#: template/listing/archive-job-style-2.php:587
+#: template/listing/single-job.php:252 template/pdf/pdf_post.php:94
+#: template/private-profile/job_bookmark.php:63
+msgid "Deadline"
+msgstr ""
+
+#: admin/pages/all_coupons.php:65 admin/pages/directory_fields.php:62
+#: admin/pages/package_all.php:162 admin/pages/user_directory_admin.php:77
+#: template/private-profile/candidates_all.php:156
+#: template/private-profile/candidates_all.php:262
+#: template/private-profile/candidates_deleted.php:132
+#: template/private-profile/candidates_deleted.php:231
+#: template/private-profile/candidates_meeting_schedule.php:145
+#: template/private-profile/candidates_meeting_schedule.php:256
+#: template/private-profile/candidates_shortlisted.php:146
+#: template/private-profile/candidates_shortlisted.php:264
+msgid "Delete"
+msgstr ""
+
+#: admin/pages/all_coupons.php:7 admin/pages/package_all.php:55
+#: template/private-profile/profile-all-post-1.php:13
+#: template/private-profile/profile-all-post-1.php:18
+msgid "Deleted Successfully"
+msgstr ""
+
+#: admin/pages/dir-demo.php:13
+msgid "Demo Import"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:251
+#: template/private-profile/edit-resume.php:303
+#: template/private-profile/edit-resume.php:371
+#: template/private-profile/edit-resume.php:423
+#: template/private-profile/edit-resume.php:472
+#: template/private-profile/edit-resume.php:510
+#: template/profile-public/candidate-profile.php:121
+msgid "Description"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:567
+msgid "Deselect all filters"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:585
+msgid "Detail"
+msgstr ""
+
+#: admin/pages/dir_setting.php:296
+msgid "Details"
+msgstr ""
+
+#: admin/pages/directory_fields.php:31
+msgid "Details Fields"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:3
+msgid "Discount Coupon"
+msgstr ""
+
+#: admin/pages/coupon_create.php:24 admin/pages/coupon_update.php:35
+msgid "Discount Type"
+msgstr ""
+
+#: admin/pages/settings.php:144
+msgid "Dispaly"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:272
+msgid "Display _MENU_ records per page"
+msgstr ""
+
+#: admin/pages/directory_fields.php:38
+msgid "Display Label"
+msgstr ""
+
+#: admin/pages/csv-import.php:32 admin/pages/csv-import.php:65
+msgid "Done!"
+msgstr ""
+
+#: admin/pages/dir-demo.php:57
+msgid "Download & import the top Revolution Slider"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:112
+#: template/private-profile/profile-new-post-1.php:101
+msgid "Draft"
+msgstr ""
+
+#. Author of the plugin
+msgid "e-plugin"
+msgstr ""
+
+#: admin/pages/all_coupons.php:64 admin/pages/metabox_full_data.php:58
+#: admin/pages/user_directory_admin.php:76
+#: template/private-profile/profile-edit-post-1.php:125
+#: template/private-profile/profile-new-post-1.php:118
+msgid "Edit"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:10
+msgid "Edit Job"
+msgstr ""
+
+#: admin/pages/profile-fields.php:82
+#: template/private-profile/candidate-menu.php:73
+#: template/private-profile/employer-menu.php:45
+msgid "Edit Profile"
+msgstr ""
+
+#: template/private-profile/candidate-menu.php:58
+#: template/private-profile/profile-setting-1.php:30
+msgid "Edit Resume"
+msgstr ""
+
+#: admin/pages/payment-settings.php:50 admin/pages/payment-settings.php:61
+msgid "Edit Setting"
+msgstr ""
+
+#: template/pdf/pdf_cv.php:100 template/private-profile/edit-resume.php:214
+#: template/profile-public/candidate-profile.php:132
+msgid "Education"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:24 template/listing/single-job.php:322
+#: template/pdf/pdf_post.php:107
+#: template/private-profile/profile-edit-post-1.php:70
+#: template/private-profile/profile-new-post-1.php:59
+msgid "Education & Experience"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:225
+#: template/private-profile/edit-resume.php:273
+msgid "Education Title"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:115 template/listing/single-job.php:362
+#: template/pdf/pdf_post.php:113
+#: template/private-profile/profile-edit-post-1.php:298
+#: template/private-profile/profile-new-post-1.php:273
+msgid "Educational Requirements"
+msgstr ""
+
+#: admin/pages/manage-cpt-columns.php:27 admin/pages/manage-cpt-columns.php:68
+#: admin/pages/settings.php:22 admin/pages/user_directory_admin.php:35
+#: template/listing/apply-form.php:7
+#: template/listing/archive-job-style-2.php:582
+#: template/listing/contact-form.php:11
+#: template/private-profile/candidate_email_popup.php:27
+#: admin/pages/importer/upload_main_big_csv.php:52
+msgid "Email"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:191
+#: template/private-profile/candidates_deleted.php:167
+#: template/private-profile/candidates_meeting_schedule.php:191
+#: template/private-profile/candidates_shortlisted.php:192
+msgid "Email : "
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:98 admin/pages/user_update.php:27
+#: template/private-profile/profile-edit-post-1.php:160
+#: template/private-profile/profile-new-post-1.php:146
+#: template/signup/wizard-style-2.php:150
+msgid "Email Address"
+msgstr ""
+
+#: admin/pages/dir_setting.php:12 admin/pages/metabox_full_data.php:326
+#: template/private-profile/profile-edit-post-1.php:499
+#: template/private-profile/profile-new-post-1.php:462
+msgid "Email Button"
+msgstr ""
+
+#: admin/pages/settings.php:188
+msgid "Email Sender :"
+msgstr ""
+
+#: admin/pages/settings.php:205
+msgid "Email Subject"
+msgstr ""
+
+#: admin/pages/settings.php:214
+msgid "Email Tempalte "
+msgstr ""
+
+#: admin/pages/user_update.php:99
+msgid "Employer"
+msgstr ""
+
+#: admin/pages/profile-fields.php:218
+msgid "Employer Bookmarks"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:132
+msgid "Employer Directory:"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:188
+msgid "Employer Public Profile:"
+msgstr ""
+
+#: template/user-directory/employer-directory.php:250
+msgid "Employers Found"
+msgstr ""
+
+#: template/listing/single-job.php:168 template/listing/single-job.php:352
+#: template/pdf/pdf_post.php:96
+msgid "Employment Status"
+msgstr ""
+
+#: admin/pages/package_create.php:578 admin/pages/package_update.php:601
+msgid "Enable Recurring Payment"
+msgstr ""
+
+#: admin/pages/package_create.php:641 admin/pages/package_update.php:665
+msgid "Enable Trial Period"
+msgstr ""
+
+#: admin/pages/all_coupons.php:42
+msgid "End Date"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:238
+#: template/private-profile/edit-resume.php:288
+#: template/private-profile/edit-resume.php:357
+#: template/private-profile/edit-resume.php:411
+msgid "End Year"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:286
+#: template/private-profile/profile-edit-post-1.php:460
+#: template/private-profile/profile-new-post-1.php:423
+msgid "Enter "
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:95
+#: template/private-profile/profile-edit-post-1.php:157
+#: template/private-profile/profile-new-post-1.php:143
+msgid "Enter Address"
+msgstr ""
+
+#: admin/pages/package_create.php:651
+msgid "Enter Amount to Bill for The Trial Period"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:67
+msgid "Enter card CVC"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:87
+msgid "Enter card CVV"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:80
+msgid "Enter card number"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:4
+msgid "Enter Coupon Cod"
+msgstr ""
+
+#: admin/pages/coupon_update.php:31
+msgid "Enter Coupon Name Or Coupon Code"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:99
+#: template/private-profile/profile-edit-post-1.php:161
+#: template/private-profile/profile-login.php:81
+#: template/private-profile/profile-new-post-1.php:147
+msgid "Enter Email Address"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:152
+msgid "Enter email address"
+msgstr ""
+
+#: admin/pages/package_create.php:487 admin/pages/package_update.php:514
+msgid "Enter Feature"
+msgstr ""
+
+#: admin/pages/package_create.php:540
+msgid "Enter Initial Payment"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:16
+msgid "Enter Message"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:289
+#: template/private-profile/profile-new-post-1.php:260
+msgid "Enter New Tags: Separate tags with commas"
+msgstr ""
+
+#: admin/pages/package_create.php:519 admin/pages/package_update.php:545
+msgid "Enter only number e.g. 1"
+msgstr ""
+
+#: admin/pages/package_create.php:506 admin/pages/package_update.php:534
+msgid "Enter order number e.g. 1"
+msgstr ""
+
+#: admin/pages/package_create.php:25
+msgid "Enter Package Name"
+msgstr ""
+
+#: admin/pages/package_create.php:32 admin/pages/package_update.php:34
+msgid "Enter Package Subtitle"
+msgstr ""
+
+#: admin/pages/paypal_update.php:42
+msgid "Enter Paypal Api Password"
+msgstr ""
+
+#: admin/pages/paypal_update.php:48
+msgid "Enter Paypal Api Signature"
+msgstr ""
+
+#: admin/pages/paypal_update.php:36
+msgid "Enter Paypal Username"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:91
+#: template/private-profile/profile-edit-post-1.php:153
+#: template/private-profile/profile-new-post-1.php:139
+msgid "Enter Phone Number"
+msgstr ""
+
+#: admin/pages/directory_fields.php:58
+msgid "Enter Post Meta Label"
+msgstr ""
+
+#: admin/pages/stripe_update.php:58
+msgid "Enter stripe Api publishable Key"
+msgstr ""
+
+#: admin/pages/stripe_update.php:42
+msgid "Enter stripe Api publishable key"
+msgstr ""
+
+#: admin/pages/stripe_update.php:52
+msgid "Enter stripe Api Secret Key"
+msgstr ""
+
+#: admin/pages/stripe_update.php:36
+msgid "Enter stripe secret key"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:13
+msgid "Enter Subject"
+msgstr ""
+
+#: admin/pages/new-message.php:25 admin/pages/new-message.php:58
+#: admin/pages/new-message.php:91
+msgid "Enter subject"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:55
+#: template/private-profile/profile-new-post-1.php:44
+msgid "Enter Title Here"
+msgstr ""
+
+#: admin/pages/coupon_update.php:76
+msgid "Enter Usage Limit Number"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:146
+msgid "Enter User Name"
+msgstr ""
+
+#: template/private-profile/profile-login.php:80
+msgid "Enter Username & Password."
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:195
+#: template/private-profile/profile-edit-post-1.php:378
+#: template/private-profile/profile-new-post-1.php:352
+msgid "Enter Vacancy, e.g : 2"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:229
+#: template/private-profile/profile-edit-post-1.php:408
+#: template/private-profile/profile-new-post-1.php:386
+msgid "Enter vimeo ID, e.g : 134173961"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:103
+#: template/private-profile/profile-edit-post-1.php:165
+#: template/private-profile/profile-new-post-1.php:151
+msgid "Enter Web Site"
+msgstr ""
+
+#: template/private-profile/profile-login.php:58
+msgid "Enter your e-mail address"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:225
+#: template/private-profile/profile-edit-post-1.php:404
+#: template/private-profile/profile-new-post-1.php:382
+msgid "Enter Youtube video ID, e.g : bU1QPtOZQZU "
+msgstr ""
+
+#: template/private-profile/employer-edit-profile.php:43
+msgid "Estd Since"
+msgstr ""
+
+#: admin/pages/stripe_update.php:69
+msgid "Euros (&euro;)"
+msgstr ""
+
+#: admin/pages/paypal_update.php:59
+msgid "Euros (€)"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:519
+#: template/listing/single-job.php:179 template/pdf/pdf_post.php:97
+#: template/private-profile/edit-resume.php:71
+#: template/profile-public/candidate-profile.php:323
+msgid "Experience"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:151
+#: template/private-profile/profile-edit-post-1.php:334
+#: template/private-profile/profile-new-post-1.php:310
+msgid "Experience Range"
+msgstr ""
+
+#: template/listing/single-job.php:374
+msgid "Experience Requirements"
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:71
+#: template/signup/iv_stripe_form_2.php:91
+msgid "Expiration (MM/YYYY)"
+msgstr ""
+
+#: admin/pages/coupon_create.php:70 admin/pages/coupon_update.php:86
+msgid "Expire Date"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:84
+msgid "Expiring"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:36 admin/pages/user_update.php:105
+msgid "Expiry Date"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:132
+msgid "Exprie Date"
+msgstr ""
+
+#: admin/pages/package_create.php:52 admin/pages/package_update.php:79
+msgid "fa-align-right"
+msgstr ""
+
+#: admin/pages/package_create.php:53 admin/pages/package_update.php:80
+msgid "fa-amazon"
+msgstr ""
+
+#: admin/pages/package_create.php:54 admin/pages/package_update.php:81
+msgid "fa-ambulance"
+msgstr ""
+
+#: admin/pages/package_create.php:55 admin/pages/package_update.php:82
+msgid "fa-anchor"
+msgstr ""
+
+#: admin/pages/package_create.php:56 admin/pages/package_update.php:83
+msgid "fa-android"
+msgstr ""
+
+#: admin/pages/package_create.php:57 admin/pages/package_update.php:84
+msgid "fa-angellist"
+msgstr ""
+
+#: admin/pages/package_create.php:58 admin/pages/package_update.php:85
+msgid "fa-angle-double-down"
+msgstr ""
+
+#: admin/pages/package_create.php:59 admin/pages/package_update.php:86
+msgid "fa-angle-double-left"
+msgstr ""
+
+#: admin/pages/package_create.php:60 admin/pages/package_update.php:87
+msgid "fa-angle-double-right"
+msgstr ""
+
+#: admin/pages/package_create.php:61 admin/pages/package_update.php:88
+msgid "fa-angle-double-up"
+msgstr ""
+
+#: admin/pages/package_create.php:62 admin/pages/package_update.php:89
+msgid "fa-angle-left"
+msgstr ""
+
+#: admin/pages/package_create.php:63 admin/pages/package_update.php:90
+msgid "fa-angle-right"
+msgstr ""
+
+#: admin/pages/package_create.php:64 admin/pages/package_update.php:91
+msgid "fa-angle-up"
+msgstr ""
+
+#: admin/pages/package_create.php:65 admin/pages/package_update.php:92
+msgid "fa-apple"
+msgstr ""
+
+#: admin/pages/package_create.php:66 admin/pages/package_update.php:93
+msgid "fa-archive"
+msgstr ""
+
+#: admin/pages/package_create.php:67 admin/pages/package_update.php:94
+msgid "fa-area-chart"
+msgstr ""
+
+#: admin/pages/package_create.php:68 admin/pages/package_update.php:95
+msgid "fa-arrow-circle-down"
+msgstr ""
+
+#: admin/pages/package_create.php:69 admin/pages/package_update.php:96
+msgid "fa-arrow-circle-left"
+msgstr ""
+
+#: admin/pages/package_create.php:71 admin/pages/package_update.php:98
+msgid "fa-arrow-circle-o-down"
+msgstr ""
+
+#: admin/pages/package_create.php:72 admin/pages/package_update.php:99
+msgid "fa-arrow-circle-o-left"
+msgstr ""
+
+#: admin/pages/package_create.php:73 admin/pages/package_update.php:100
+msgid "fa-arrow-circle-o-right"
+msgstr ""
+
+#: admin/pages/package_create.php:74 admin/pages/package_update.php:101
+msgid "fa-arrow-circle-o-up"
+msgstr ""
+
+#: admin/pages/package_create.php:75 admin/pages/package_update.php:102
+msgid "fa-arrow-circle-right"
+msgstr ""
+
+#: admin/pages/package_create.php:76 admin/pages/package_update.php:103
+msgid "fa-arrow-circle-up"
+msgstr ""
+
+#: admin/pages/package_create.php:77 admin/pages/package_update.php:104
+msgid "fa-arrow-down"
+msgstr ""
+
+#: admin/pages/package_create.php:78 admin/pages/package_create.php:79
+#: admin/pages/package_update.php:105 admin/pages/package_update.php:106
+msgid "fa-arrow-left"
+msgstr ""
+
+#: admin/pages/package_create.php:80 admin/pages/package_update.php:107
+msgid "fa-arrow-up"
+msgstr ""
+
+#: admin/pages/package_create.php:81 admin/pages/package_update.php:108
+msgid "fa-arrows"
+msgstr ""
+
+#: admin/pages/package_create.php:82 admin/pages/package_update.php:109
+msgid "fa-arrows-alt"
+msgstr ""
+
+#: admin/pages/package_create.php:83 admin/pages/package_update.php:110
+msgid "fa-arrows-h"
+msgstr ""
+
+#: admin/pages/package_create.php:85 admin/pages/package_update.php:112
+msgid "fa-asterisk"
+msgstr ""
+
+#: admin/pages/package_create.php:86 admin/pages/package_update.php:113
+msgid "fa-at"
+msgstr ""
+
+#: admin/pages/package_create.php:87 admin/pages/package_update.php:114
+msgid "fa-automobile"
+msgstr ""
+
+#: admin/pages/package_create.php:88 admin/pages/package_update.php:115
+msgid "fa-backward"
+msgstr ""
+
+#: admin/pages/package_create.php:89 admin/pages/package_update.php:116
+msgid "fa-balance-scale"
+msgstr ""
+
+#: admin/pages/package_create.php:90 admin/pages/package_update.php:117
+msgid "fa-ban"
+msgstr ""
+
+#: admin/pages/package_create.php:91 admin/pages/package_update.php:118
+msgid "fa-bank"
+msgstr ""
+
+#: admin/pages/package_create.php:92 admin/pages/package_update.php:119
+msgid "fa-bar-chart"
+msgstr ""
+
+#: admin/pages/package_create.php:93 admin/pages/package_update.php:120
+msgid "fa-bar-chart-o"
+msgstr ""
+
+#: admin/pages/package_create.php:94 admin/pages/package_update.php:121
+msgid "fa-battery-full"
+msgstr ""
+
+#: admin/pages/package_create.php:95 admin/pages/package_update.php:122
+msgid "fa-beer"
+msgstr ""
+
+#: admin/pages/package_create.php:96 admin/pages/package_update.php:123
+msgid "fa-behance"
+msgstr ""
+
+#: admin/pages/package_create.php:97 admin/pages/package_update.php:124
+msgid "fa-behance-square"
+msgstr ""
+
+#: admin/pages/package_create.php:98 admin/pages/package_update.php:125
+msgid "fa-bell"
+msgstr ""
+
+#: admin/pages/package_create.php:99 admin/pages/package_update.php:126
+msgid "fa-bell-o"
+msgstr ""
+
+#: admin/pages/package_create.php:100 admin/pages/package_update.php:127
+msgid "fa-bell-slash"
+msgstr ""
+
+#: admin/pages/package_create.php:101 admin/pages/package_update.php:128
+msgid "fa-bell-slash-o"
+msgstr ""
+
+#: admin/pages/package_create.php:102 admin/pages/package_update.php:129
+msgid "fa-bicycle"
+msgstr ""
+
+#: admin/pages/package_create.php:103 admin/pages/package_update.php:130
+msgid "fa-binoculars"
+msgstr ""
+
+#: admin/pages/package_create.php:104 admin/pages/package_update.php:131
+msgid "fa-birthday-cake"
+msgstr ""
+
+#: admin/pages/package_create.php:105 admin/pages/package_update.php:132
+msgid "fa-bitbucket"
+msgstr ""
+
+#: admin/pages/package_create.php:106 admin/pages/package_update.php:133
+msgid "fa-bitbucket-square"
+msgstr ""
+
+#: admin/pages/package_create.php:107 admin/pages/package_update.php:134
+msgid "fa-bitcoin"
+msgstr ""
+
+#: admin/pages/package_create.php:108 admin/pages/package_update.php:135
+msgid "fa-black-tie"
+msgstr ""
+
+#: admin/pages/package_create.php:109 admin/pages/package_update.php:136
+msgid "fa-bold"
+msgstr ""
+
+#: admin/pages/package_create.php:110 admin/pages/package_update.php:137
+msgid "fa-bolt"
+msgstr ""
+
+#: admin/pages/package_create.php:111 admin/pages/package_update.php:138
+msgid "fa-bomb"
+msgstr ""
+
+#: admin/pages/package_create.php:112 admin/pages/package_update.php:139
+msgid "fa-book"
+msgstr ""
+
+#: admin/pages/package_create.php:113 admin/pages/package_update.php:140
+msgid "fa-bookmark"
+msgstr ""
+
+#: admin/pages/package_create.php:114 admin/pages/package_update.php:141
+msgid "fa-bookmark-o"
+msgstr ""
+
+#: admin/pages/package_create.php:115 admin/pages/package_update.php:142
+msgid "fa-briefcase"
+msgstr ""
+
+#: admin/pages/package_create.php:116 admin/pages/package_update.php:143
+msgid "fa-btc"
+msgstr ""
+
+#: admin/pages/package_create.php:117 admin/pages/package_update.php:144
+msgid "fa-bug"
+msgstr ""
+
+#: admin/pages/package_create.php:118 admin/pages/package_update.php:145
+msgid "fa-building"
+msgstr ""
+
+#: admin/pages/package_create.php:119 admin/pages/package_update.php:146
+msgid "fa-building-o"
+msgstr ""
+
+#: admin/pages/package_create.php:46 admin/pages/package_update.php:73
+msgid "fa-calendar-check-o"
+msgstr ""
+
+#: admin/pages/package_create.php:50 admin/pages/package_update.php:77
+msgid "fa-envira"
+msgstr ""
+
+#: admin/pages/package_create.php:47 admin/pages/package_update.php:74
+msgid "fa-file-video-o"
+msgstr ""
+
+#: admin/pages/package_create.php:48 admin/pages/package_update.php:75
+msgid "fa-newspaper-o"
+msgstr ""
+
+#: admin/pages/package_create.php:49 admin/pages/package_update.php:76
+msgid "fa-user-o"
+msgstr ""
+
+#: template/listing/job-filter.php:277
+#: template/listing/jobboard_featured.php:171
+msgid "Featured"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:579
+msgid "featured"
+msgstr ""
+
+#: admin/pages/metabox.php:43
+msgid "Featured (display on top)"
+msgstr ""
+
+#: admin/pages/dir_setting.php:207 template/listing/archive-job-style-2.php:115
+msgid "Features"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:190
+#: template/private-profile/edit-resume.php:87
+#: template/private-profile/profile-edit-post-1.php:373
+#: template/private-profile/profile-new-post-1.php:347
+#: template/profile-public/candidate-profile.php:350
+msgid "Female"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:75
+msgid "Filter Search"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:277
+msgid "First"
+msgstr ""
+
+#: admin/pages/coupon_create.php:27 admin/pages/coupon_update.php:41
+msgid "Fixed Amount"
+msgstr ""
+
+#: template/private-profile/profile-login.php:55
+msgid "Forget Password ?"
+msgstr ""
+
+#: admin/pages/settings.php:229
+msgid "Forget Subject"
+msgstr ""
+
+#: admin/pages/settings.php:238
+msgid "Forget Tempalte :"
+msgstr ""
+
+#: template/private-profile/profile-login.php:39
+msgid "Forgot Password?"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:33
+msgid "Full Name"
+msgstr ""
+
+#: admin/admin.php:238 admin/pages/metabox_full_data.php:361
+#: template/private-profile/profile-edit-post-1.php:545
+#: template/private-profile/profile-new-post-1.php:513
+#: template/private-profile/profile-template-1.php:262
+msgid "Gallery Images"
+msgstr ""
+
+#: admin/pages/paypal_update.php:25 admin/pages/stripe_update.php:25
+msgid "Gateway Mode"
+msgstr ""
+
+#: admin/pages/payment-settings.php:34
+msgid "Gateways Name"
+msgstr ""
+
+#: admin/pages/dir_setting.php:171 admin/pages/metabox_full_data.php:186
+#: template/listing/archive-job-style-2.php:498
+#: template/listing/single-job.php:200 template/pdf/pdf_post.php:99
+#: template/private-profile/edit-resume.php:84
+#: template/private-profile/profile-edit-post-1.php:369
+#: template/private-profile/profile-new-post-1.php:343
+#: template/profile-public/candidate-profile.php:345
+msgid "Gender"
+msgstr ""
+
+#: admin/pages/dir_setting.php:429 admin/pages/dir_setting.php:449
+#: admin/pages/settings.php:344
+msgid "Get your API key here"
+msgstr ""
+
+#: admin/pages/dir_setting.php:443
+msgid "Google Map API Key"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:70 template/signup/paypal_form_2.php:55
+msgid "Have a coupon?"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:252
+msgid "Have Coupon"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:33
+msgid "Here"
+msgstr ""
+
+#: admin/pages/profile-fields.php:52 admin/pages/profile-fields.php:75
+#: admin/pages/profile-fields.php:97 admin/pages/profile-fields.php:120
+#: admin/pages/profile-fields.php:143 admin/pages/profile-fields.php:165
+#: admin/pages/profile-fields.php:187 admin/pages/profile-fields.php:210
+#: admin/pages/profile-fields.php:233 admin/pages/profile-fields.php:257
+#: admin/pages/settings.php:118 admin/pages/settings.php:168
+msgid "Hide"
+msgstr ""
+
+#: admin/pages/settings.php:109
+msgid "Hide Admin Bar for All Users Except for Administrators:"
+msgstr ""
+
+#: admin/pages/dir_setting.php:357
+msgid "Hide contact Form"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:251
+msgid "Hide Coupon"
+msgstr ""
+
+#: admin/pages/settings.php:159
+msgid "Hide Coupon Buton"
+msgstr ""
+
+#: admin/pages/dir_setting.php:304
+msgid "Hide Details"
+msgstr ""
+
+#: admin/pages/dir_setting.php:20 admin/pages/metabox_full_data.php:334
+#: template/private-profile/profile-edit-post-1.php:507
+#: template/private-profile/profile-new-post-1.php:470
+msgid "Hide Email Button"
+msgstr ""
+
+#: admin/pages/dir_setting.php:321
+msgid "Hide Listing Map"
+msgstr ""
+
+#: admin/pages/dir_setting.php:338
+msgid "Hide Listing Video"
+msgstr ""
+
+#: admin/pages/dir_setting.php:376
+msgid "Hide Share Listing"
+msgstr ""
+
+#: admin/pages/dir_setting.php:393
+msgid "Hide similar properties"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:313
+#: template/private-profile/profile-edit-post-1.php:486
+#: template/private-profile/profile-new-post-1.php:449
+msgid "Hide Web Button"
+msgstr ""
+
+#: admin/pages/dir-demo.php:55
+msgid "Home Page Content"
+msgstr ""
+
+#: admin/pages/paypal_update.php:67 admin/pages/stripe_update.php:77
+msgid "Hong Kong Dollar ($)"
+msgstr ""
+
+#: template/pdf/pdf_cv.php:113 template/private-profile/edit-resume.php:443
+msgid "Honors & Awards"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:64
+#: template/profile-public/candidate-profile.php:312
+msgid "Hourly Rate"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://e-plugin.com/"
+msgstr ""
+
+#: admin/pages/paypal_update.php:68 admin/pages/stripe_update.php:78
+msgid "Hungarian Forint"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:594
+msgid ""
+"I would like to inquire about the listing. The listing can be found on the "
+"site :"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:131
+msgid "I'm a candidate"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:125
+msgid "I'm an employer"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:32
+msgid "ID"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:38
+msgid "Id"
+msgstr ""
+
+#: admin/pages/csv-import.php:45
+msgid "If CSV ID filed value match your listing ID then it will update/merge"
+msgstr ""
+
+#: admin/pages/package_update.php:594
+msgid ""
+"If select none then user  package will expire after 19 years. Package Expire "
+"Option will not work on Recurring Subscription. \"Billing Cycle Limit\" will "
+"Work For Recurring Subscription."
+msgstr ""
+
+#: admin/pages/package_create.php:571
+msgid ""
+"If select none then user package will expire after 19 years. Package Expire "
+"Option will not work on Recurring Subscription. \"Billing Cycle Limit\" will "
+"Work For Recurring Subscription."
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:238
+#: template/private-profile/profile-edit-post-1.php:413
+#: template/private-profile/profile-new-post-1.php:391
+msgid "Image Gallery"
+msgstr ""
+
+#: admin/pages/csv-import.php:24
+msgid "Import"
+msgstr ""
+
+#: admin/pages/settings.php:12
+msgid "Import Data"
+msgstr ""
+
+#: admin/pages/dir-demo.php:31
+msgid "Import Demo Jobs"
+msgstr ""
+
+#: admin/pages/dir-demo.php:41
+msgid "Importing CSV Data "
+msgstr ""
+
+#: admin/pages/paypal_update.php:69 admin/pages/stripe_update.php:79
+msgid "Indian Rupee"
+msgstr ""
+
+#: template/listing/single-job.php:231
+msgid "Industry"
+msgstr ""
+
+#: admin/pages/package_create.php:538 admin/pages/package_update.php:563
+msgid "Initial Payment"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:245
+#: template/private-profile/edit-resume.php:296
+msgid "Institute"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:549
+msgid "Intermediate"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:80
+msgid "Invalid Card Number"
+msgstr ""
+
+#: template/signup/iv_stripe_form_2.php:87
+msgid "Invalid CVV Number"
+msgstr ""
+
+#: template/private-profile/profile-login.php:79
+msgid "Invalid Username & Password."
+msgstr ""
+
+#: admin/pages/package_create.php:36 admin/pages/package_update.php:38
+msgid "Is it Feature Package ?"
+msgstr ""
+
+#: admin/pages/paypal_update.php:70 admin/pages/stripe_update.php:80
+msgid "Israeli Sheqel"
+msgstr ""
+
+#: admin/pages/paypal_update.php:71 admin/pages/stripe_update.php:81
+msgid "Japanese Yen (¥)"
+msgstr ""
+
+#: admin/pages/manage-cpt-columns.php:29
+msgid "Job"
+msgstr ""
+
+#. Name of the plugin
+msgid "Job Board"
+msgstr ""
+
+#: admin/pages/profile-fields.php:242
+#: template/private-profile/candidate-menu.php:120
+msgid "Job Bookmarks"
+msgstr ""
+
+#: admin/pages/dir_setting.php:61
+msgid "job Custom Post Type"
+msgstr ""
+
+#: template/listing/single-job.php:309 template/pdf/pdf_post.php:104
+#: template/private-profile/profile-edit-post-1.php:59
+#: template/private-profile/profile-new-post-1.php:48
+msgid "Job Description"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:109
+#: template/private-profile/profile-edit-post-1.php:292
+#: template/private-profile/profile-new-post-1.php:266
+msgid "Job information"
+msgstr ""
+
+#: admin/pages/dir_setting.php:154 admin/pages/metabox_full_data.php:135
+#: template/listing/archive-job-style-2.php:484
+#: template/private-profile/profile-edit-post-1.php:318
+#: template/private-profile/profile-new-post-1.php:294
+msgid "Job Level"
+msgstr ""
+
+#: admin/pages/directory_fields.php:93
+msgid "Job level"
+msgstr ""
+
+#: template/private-profile/messageboard.php:70
+msgid "Job Listing"
+msgstr ""
+
+#: template/listing/single-job.php:268 template/listing/single-job.php:384
+msgid "Job Location"
+msgstr ""
+
+#: admin/pages/dir_setting.php:136 admin/pages/metabox_full_data.php:119
+#: template/listing/archive-job-style-2.php:477
+#: template/private-profile/profile-edit-post-1.php:302
+#: template/private-profile/profile-new-post-1.php:278
+msgid "Job Nature"
+msgstr ""
+
+#: admin/pages/new-message.php:81
+msgid "Job Notification Email"
+msgstr ""
+
+#: template/private-profile/candidate-menu.php:46
+#: template/private-profile/employer-menu.php:106
+msgid "Job Notifications"
+msgstr ""
+
+#: template/private-profile/job-notifications.php:2
+msgid "Job Notifications "
+msgstr ""
+
+#: admin/pages/package_create.php:525 admin/pages/package_update.php:551
+msgid "Job post will be feature. It will appear on top "
+msgstr ""
+
+#: admin/pages/profile-fields.php:37
+#: template/private-profile/candidate-menu.php:12
+#: template/private-profile/employer-menu.php:12
+msgid "Job Search"
+msgstr ""
+
+#: admin/pages/directory_fields.php:78
+msgid "Job status"
+msgstr ""
+
+#: template/listing/single-job.php:146 template/pdf/pdf_post.php:92
+msgid "Job Summary"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:39
+#: template/private-profile/candidates_deleted.php:29
+#: template/private-profile/candidates_meeting_schedule.php:46
+#: template/private-profile/candidates_shortlisted.php:43
+#: template/private-profile/edit-resume.php:58
+#: template/profile-public/candidate-profile.php:301
+msgid "Job Title"
+msgstr ""
+
+#: template/profile-public/employer-profile.php:102
+msgid "Jobs"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:540
+msgid "Language Name"
+msgstr ""
+
+#: template/pdf/pdf_cv.php:126 template/private-profile/edit-resume.php:527
+#: template/profile-public/candidate-profile.php:230
+msgid "Languages"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:278
+msgid "Last"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:379
+#: template/listing/archive_feature_listing2.php:155
+msgid "Last 2 Days"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:382
+#: template/listing/archive_feature_listing2.php:158
+msgid "Last 3 Days"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:385
+#: template/listing/archive_feature_listing2.php:161
+msgid "Last 7 Days"
+msgstr ""
+
+#: admin/pages/dir_setting.php:86
+msgid "Left Faceted Search"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:546
+msgid "Level"
+msgstr ""
+
+#: admin/pages/package_all.php:92 admin/pages/profile-fields.php:25
+msgid "Link"
+msgstr ""
+
+#: admin/pages/dir_setting.php:74
+msgid "List View"
+msgstr ""
+
+#: admin/pages/directory_fields.php:25 admin/pages/settings.php:14
+msgid "Listing Fields"
+msgstr ""
+
+#: admin/pages/package_create.php:516 admin/pages/package_update.php:542
+msgid "Listing Limit (Max job post for the package)"
+msgstr ""
+
+#: admin/pages/dir_setting.php:1
+msgid "Listing Setting"
+msgstr ""
+
+#: admin/pages/settings.php:13
+msgid "Listing Settings"
+msgstr ""
+
+#: admin/pages/paypal_update.php:29 admin/pages/stripe_update.php:29
+msgid "Live Mode"
+msgstr ""
+
+#: admin/pages/stripe_update.php:40
+msgid "Live Publishable"
+msgstr ""
+
+#: admin/pages/stripe_update.php:34
+msgid "Live Secret"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:563
+msgid "Load More"
+msgstr ""
+
+#: admin/pages/dir_setting.php:31
+msgid "Load Per Page"
+msgstr ""
+
+#: template/listing/job-map.php:85
+#: template/profile-public/candidate-profile.php:278
+#: template/profile-public/employer-profile.php:210
+#: template/profile-public/employer-profile.php:245
+msgid "Location"
+msgstr ""
+
+#: template/user-directory/candidate-directory.php:94
+#: template/user-directory/employer-directory.php:96
+msgid "Locations"
+msgstr ""
+
+#: template/private-profile/profile-login.php:33
+msgid "Login"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:42
+msgid "Login or upgrade "
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:84
+msgid "Login Page:"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:144
+msgid "Logo"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:59
+msgid "Magento Certified Developer"
+msgstr ""
+
+#: admin/pages/settings.php:23
+msgid "MailChimp"
+msgstr ""
+
+#: admin/pages/settings.php:333
+msgid "MailChimp API Key :"
+msgstr ""
+
+#: admin/pages/settings.php:353
+msgid "Mailchimp List "
+msgstr ""
+
+#: template/profile-public/candidate-profile.php:369
+msgid "Make an Offer"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:257
+#: template/private-profile/candidates_deleted.php:224
+#: template/private-profile/candidates_meeting_schedule.php:249
+#: template/private-profile/candidates_shortlisted.php:257
+#: template/private-profile/profile-template-1.php:284
+msgid "Make Reject"
+msgstr ""
+
+#: template/private-profile/candidates_deleted.php:206
+#: template/private-profile/candidates_meeting_schedule.php:230
+#: template/private-profile/candidates_shortlisted.php:239
+msgid "Make Short Listed"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:240
+#: template/private-profile/profile-template-1.php:281
+msgid "Make Shortlisted"
+msgstr ""
+
+#: admin/pages/paypal_update.php:72 admin/pages/stripe_update.php:82
+msgid "Malaysian Ringgits"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:189
+#: template/private-profile/edit-resume.php:88
+#: template/private-profile/profile-edit-post-1.php:372
+#: template/private-profile/profile-new-post-1.php:346
+#: template/profile-public/candidate-profile.php:353
+msgid "Male"
+msgstr ""
+
+#: admin/pages/profile-fields.php:128
+#: template/private-profile/employer-menu.php:60
+msgid "Manage Candidates"
+msgstr ""
+
+#: admin/pages/profile-fields.php:105
+#: template/private-profile/employer-menu.php:76
+msgid "Manage Jobs"
+msgstr ""
+
+#: admin/pages/dir_setting.php:313
+msgid "Map"
+msgstr ""
+
+#: admin/pages/map_marker.php:19
+msgid "Map Marker"
+msgstr ""
+
+#: admin/pages/dir_setting.php:454
+msgid "Map Zoom"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:138
+#: template/private-profile/candidates_deleted.php:114
+#: template/private-profile/candidates_meeting_schedule.php:127
+#: template/private-profile/candidates_shortlisted.php:128
+msgid "Meeting"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:246
+#: template/private-profile/candidates_deleted.php:213
+#: template/private-profile/candidates_meeting_schedule.php:238
+#: template/private-profile/candidates_shortlisted.php:245
+#: template/private-profile/candidate_meeting_popup.php:14
+msgid "Meeting Schedule"
+msgstr ""
+
+#: template/private-profile/candidates_meeting_schedule.php:171
+#: template/private-profile/candidates_shortlisted.php:172
+msgid "Meeting Time : "
+msgstr ""
+
+#: template/user-directory/employer-directory.php:286
+msgid "Member Science"
+msgstr ""
+
+#: admin/pages/profile-fields.php:60
+#: template/private-profile/employer-menu.php:27
+msgid "Membership"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:18
+msgid "Membership Level"
+msgstr ""
+
+#: admin/pages/profile-fields.php:22
+msgid "Menu Title / Label"
+msgstr ""
+
+#: admin/pages/manage-cpt-columns.php:67 template/listing/contact-form.php:15
+#: template/private-profile/candidate-menu.php:40
+#: template/private-profile/candidates_all.php:144
+#: template/private-profile/candidates_deleted.php:120
+#: template/private-profile/candidates_meeting_schedule.php:133
+#: template/private-profile/candidates_shortlisted.php:134
+#: template/private-profile/candidate_email_popup.php:13
+#: template/private-profile/candidate_email_popup.php:35
+#: template/private-profile/employer-menu.php:91
+#: template/private-profile/messageboard.php:2
+#: template/private-profile/messageboard.php:46
+msgid "Message"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:7
+msgid "Message Board"
+msgstr ""
+
+#: admin/pages/profile-fields.php:150
+msgid "Message board"
+msgstr ""
+
+#: admin/pages/paypal_update.php:73 admin/pages/stripe_update.php:83
+msgid "Mexican Peso ($)"
+msgstr ""
+
+#: admin/pages/payment-settings.php:35
+msgid "Mode"
+msgstr ""
+
+#: admin/pages/package_create.php:566
+msgid "Month(s"
+msgstr ""
+
+#: admin/pages/package_create.php:612 admin/pages/package_create.php:671
+#: admin/pages/package_update.php:589 admin/pages/package_update.php:636
+#: admin/pages/package_update.php:698
+msgid "Month(s)"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:270
+#: template/private-profile/profile-edit-post-1.php:445
+#: template/private-profile/profile-new-post-1.php:408
+msgid "More details "
+msgstr ""
+
+#: template/private-profile/edit-resume.php:322
+msgid "More Education"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:437
+msgid "More Experience"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:36 template/listing/single-job.php:337
+#: template/pdf/pdf_post.php:110
+#: template/private-profile/profile-edit-post-1.php:82
+#: template/private-profile/profile-new-post-1.php:70
+msgid "Must Have"
+msgstr ""
+
+#: admin/pages/profile-fields.php:18 admin/pages/settings.php:15
+msgid "My Account Menu"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:28
+msgid "My Job Listings"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:7
+msgid "My Profile"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:6
+msgid "My Resume"
+msgstr ""
+
+#: template/listing/apply-form.php:3 template/listing/contact-form.php:3
+msgid "Name"
+msgstr ""
+
+#: admin/pages/package_create.php:627 admin/pages/package_update.php:651
+msgid "Never"
+msgstr ""
+
+#: admin/pages/new-message.php:63
+msgid "New Apply Template :"
+msgstr ""
+
+#: admin/pages/settings.php:311
+msgid "New Message Email"
+msgstr ""
+
+#: admin/pages/new-message.php:18
+msgid "New Message Subject : "
+msgstr ""
+
+#: admin/pages/new-message.php:30
+msgid "New Message Template :"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:44
+msgid "New Password"
+msgstr ""
+
+#: admin/pages/paypal_update.php:74 admin/pages/stripe_update.php:84
+msgid "New Zealand Dollar ($)"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:279
+msgid "Next"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:398
+#: template/listing/archive_feature_listing2.php:175
+msgid "Next 2 Days"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:401
+#: template/listing/archive_feature_listing2.php:178
+msgid "Next 3 Days"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:151
+msgid "Next Payment Date"
+msgstr ""
+
+#: template/user-directory/candidate-directory.php:344
+#: template/user-directory/employer-directory.php:337
+msgid "Next »"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:275
+msgid "No records available"
+msgstr ""
+
+#: admin/pages/dir_setting.php:68
+msgid "No special characters, no upper case, no space"
+msgstr ""
+
+#: admin/pages/package_create.php:563 admin/pages/package_update.php:586
+msgid "None"
+msgstr ""
+
+#: admin/pages/paypal_update.php:75 admin/pages/stripe_update.php:85
+msgid "Norwegian Krone"
+msgstr ""
+
+#: admin/pages/metabox.php:45
+msgid "Not Featured"
+msgstr ""
+
+#: admin/pages/all_coupons.php:74
+#, php-format
+msgid ""
+"Note : Coupon will work on \"One Time Payment\" only. Coupon will not work "
+"on recurring payment and it will not support 100% discount.\t"
+msgstr ""
+
+#: admin/pages/coupon_create.php:91 admin/pages/coupon_update.php:100
+#, php-format
+msgid ""
+"Note : Coupon will work on \"One Time Payment\" only. Coupon will not work "
+"on recurring payment and it will not support 100% discount.\t\t"
+msgstr ""
+
+#: admin/pages/package_all.php:210
+msgid ""
+"Note: You can use other available pricing table. The package link URL will "
+"go on \"Sign UP \" button. "
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:340
+msgid ""
+"Note: Your Successful Upgrade or Downgrade will affect on your user role "
+"immediately."
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:273
+msgid "Nothing found - sorry"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:367
+#: template/private-profile/profile-level-1.php:394
+msgid "Nothing to Cancel"
+msgstr ""
+
+#: admin/pages/profile-fields.php:172
+msgid "Notification"
+msgstr ""
+
+#: admin/pages/new-message.php:84
+msgid "Notification Subject : "
+msgstr ""
+
+#: admin/pages/new-message.php:96
+msgid "Notification Template :"
+msgstr ""
+
+#: template/pdf/pdf_cv.php:85
+msgid "Objective"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:206
+#: template/private-profile/profile-edit-post-1.php:389
+#: template/private-profile/profile-new-post-1.php:363
+msgid "Offerd Salary"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:203
+#: template/private-profile/profile-edit-post-1.php:386
+#: template/private-profile/profile-new-post-1.php:360
+msgid "Office, Work from Home"
+msgstr ""
+
+#: template/private-profile/employer-bookmarks.php:56
+#: template/user-directory/employer-directory.php:309
+msgid "Open Jobs"
+msgstr ""
+
+#: template/profile-public/employer-profile.php:140
+msgid "Open Positions"
+msgstr ""
+
+#: admin/pages/package_create.php:503 admin/pages/package_update.php:531
+msgid "Order"
+msgstr ""
+
+#: admin/pages/settings.php:254
+msgid "Order Email"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:89
+#: template/profile-public/candidate-profile.php:356
+msgid "Other"
+msgstr ""
+
+#: admin/pages/directory_fields.php:52 admin/pages/metabox_full_data.php:280
+#: template/private-profile/profile-edit-post-1.php:455
+#: template/private-profile/profile-new-post-1.php:418
+#: admin/pages/importer/csv_save_database.php:17
+#: admin/pages/importer/upload_main_big_csv.php:32
+msgid "Other Link"
+msgstr ""
+
+#: admin/pages/dir_setting.php:399
+msgid "Other Settings"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:426
+#: template/listing/archive_feature_listing2.php:204
+msgid "Over 100000"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:404
+#: template/listing/archive_feature_listing2.php:181
+msgid "Over 7 Days"
+msgstr ""
+
+#: admin/pages/settings.php:18
+msgid "Package"
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:67
+msgid "Package Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:545 admin/pages/package_update.php:569
+msgid "Package Expire After"
+msgstr ""
+
+#: admin/pages/package_create.php:43 admin/pages/package_update.php:48
+#: admin/pages/package_update.php:70
+msgid "Package Feature List"
+msgstr ""
+
+#: admin/pages/package_all.php:169
+msgid "Package List is Empty"
+msgstr ""
+
+#: admin/pages/package_all.php:90 admin/pages/package_create.php:23
+#: admin/pages/package_update.php:24
+#: template/private-profile/iv_stripe_form_upgrade.php:20
+#: template/private-profile/profile-level-1.php:178
+#: template/private-profile/profile-level-1.php:254
+#: template/signup/iv_stripe_form_2.php:19 template/signup/paypal_form_2.php:2
+#: template/signup/woocommerce.php:2
+msgid "Package Name"
+msgstr ""
+
+#: admin/pages/coupon_create.php:33 admin/pages/coupon_update.php:47
+msgid "Package Only"
+msgstr ""
+
+#: admin/pages/package_all.php:201
+msgid "Package Page "
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:95
+msgid "Package Type"
+msgstr ""
+
+#: admin/pages/dir_setting.php:37
+msgid "Page Background color"
+msgstr ""
+
+#: admin/pages/settings.php:19
+msgid "Pages"
+msgstr ""
+
+#: template/private-profile/profile-login.php:28
+#: template/signup/wizard-style-2.php:157
+msgid "Password"
+msgstr ""
+
+#: template/private-profile/profile-login.php:78
+msgid "Password Sent. Please check your email."
+msgstr ""
+
+#: admin/pages/payment-settings.php:22
+msgid "Payment Gateways"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:210
+msgid "Payment Info"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:37 admin/pages/user_update.php:81
+#: template/private-profile/profile-level-1.php:105
+msgid "Payment Status"
+msgstr ""
+
+#: admin/pages/payment-settings.php:45
+msgid "Paypal"
+msgstr ""
+
+#: admin/pages/paypal_update.php:52
+msgid "PayPal API Currency Code"
+msgstr ""
+
+#: admin/pages/paypal_update.php:40
+msgid "PayPal API Password"
+msgstr ""
+
+#: admin/pages/paypal_update.php:16
+msgid "Paypal Api Settings [Express Checkout]"
+msgstr ""
+
+#: admin/pages/paypal_update.php:46
+msgid "PayPal API Signature"
+msgstr ""
+
+#: admin/pages/paypal_update.php:34
+msgid "PayPal API Username"
+msgstr ""
+
+#: template/listing/single-job.php:118
+#: template/profile-public/candidate-profile.php:96
+msgid "PDF"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:111
+#: template/private-profile/profile-new-post-1.php:100
+msgid "Pending Review"
+msgstr ""
+
+#: admin/pages/user_update.php:88
+msgid "Pendinge"
+msgstr ""
+
+#: admin/pages/package_create.php:604 admin/pages/package_update.php:627
+msgid "Per"
+msgstr ""
+
+#: admin/pages/coupon_create.php:28 admin/pages/coupon_update.php:42
+msgid "Percentage"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:11
+msgid "Personal Info"
+msgstr ""
+
+#: template/profile-public/candidate-profile.php:272
+msgid "Personal Information"
+msgstr ""
+
+#: admin/pages/paypal_update.php:76 admin/pages/stripe_update.php:86
+msgid "Philippine Pesos"
+msgstr ""
+
+#: admin/pages/manage-cpt-columns.php:28 admin/pages/manage-cpt-columns.php:69
+#: admin/pages/metabox_full_data.php:90 template/listing/apply-form.php:11
+#: template/pdf/pdf_cv.php:80 template/pdf/pdf_post.php:86
+#: template/private-profile/edit-resume.php:40
+#: template/private-profile/employer-edit-profile.php:31
+#: template/private-profile/messageboard.php:66
+#: template/private-profile/profile-edit-post-1.php:152
+#: template/private-profile/profile-new-post-1.php:138
+msgid "Phone"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:204
+#: template/private-profile/candidates_deleted.php:180
+#: template/private-profile/candidates_meeting_schedule.php:204
+#: template/private-profile/candidates_shortlisted.php:205
+msgid "Phone : "
+msgstr ""
+
+#: template/listing/contact-form.php:7
+#: template/private-profile/candidate_email_popup.php:31
+msgid "Phone#"
+msgstr ""
+
+#: admin/pages/package_all.php:195
+msgid "PHP Code :"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:41
+msgid "Please "
+msgstr ""
+
+#: template/signup/wizard-style-2.php:250
+msgid "Please complete the form"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:152
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: template/private-profile/contact_popup.php:17
+msgid "Please Enter Message"
+msgstr ""
+
+#: template/profile-public/candidate-profile.php:398
+#: template/profile-public/employer-profile.php:280
+msgid "Please Login"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:610
+#: template/listing/single-job.php:554
+#: template/profile-public/employer-profile.php:299
+msgid "Please login"
+msgstr ""
+
+#: template/listing/apply_popup.php:62
+msgid "Please Login & Apply"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:584
+msgid "Please put your name,email & content"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:613
+#: template/listing/single-job.php:557
+#: template/profile-public/employer-profile.php:302
+msgid "Please put your name,email & Cover letter"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:601
+#: template/profile-public/candidate-profile.php:408
+#: template/profile-public/employer-profile.php:290
+msgid "Please put your name,email & message"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:32
+msgid "Please Upgrade Your Account"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:234
+msgid "Please upgrade your account to add video "
+msgstr ""
+
+#: admin/pages/paypal_update.php:77 admin/pages/stripe_update.php:87
+msgid "Polish Zloty"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:342
+#: template/private-profile/edit-resume.php:398
+msgid "Position Title"
+msgstr ""
+
+#: admin/pages/dir_setting.php:259 template/listing/archive-job-style-2.php:505
+msgid "Post Date"
+msgstr ""
+
+#: admin/pages/importer/upload_main_big_csv.php:44
+msgid "Post Field/Map to field"
+msgstr ""
+
+#: admin/pages/directory_fields.php:35
+msgid "Post Meta Name[no space]"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:591
+#: template/listing/single-job.php:522
+#: template/private-profile/profile-all-post-1.php:73
+msgid "Posted"
+msgstr ""
+
+#: template/profile-public/employer-profile.php:162
+msgid "Posted "
+msgstr ""
+
+#: admin/pages/paypal_update.php:60 admin/pages/stripe_update.php:70
+msgid "Pounds Sterling (£)"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:280
+msgid "Previous"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:18
+msgid "Price Listing"
+msgstr ""
+
+#: admin/pages/manage-cpt-columns.php:56 admin/pages/manage-cpt-columns.php:58
+msgid "Print CV"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:127
+#: template/private-profile/candidates_all.php:130
+#: template/private-profile/candidates_all.php:222
+#: template/private-profile/candidates_all.php:225
+#: template/private-profile/candidates_deleted.php:103
+#: template/private-profile/candidates_deleted.php:106
+#: template/private-profile/candidates_deleted.php:196
+#: template/private-profile/candidates_meeting_schedule.php:116
+#: template/private-profile/candidates_meeting_schedule.php:119
+#: template/private-profile/candidates_meeting_schedule.php:220
+#: template/private-profile/candidates_shortlisted.php:117
+#: template/private-profile/candidates_shortlisted.php:120
+#: template/private-profile/candidates_shortlisted.php:223
+#: template/private-profile/candidates_shortlisted.php:226
+msgid "Print PDF"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:270
+msgid "Processing"
+msgstr ""
+
+#: template/profile-public/candidate-profile.php:204
+msgid "Professional Skill"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:152
+msgid "Professional Skills"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:550
+msgid "Proficient"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:100
+#: template/private-profile/profile-edit-post-1.php:106
+#: template/private-profile/profile-new-post-1.php:89
+#: template/private-profile/profile-new-post-1.php:95
+msgid "Publish"
+msgstr ""
+
+#: template/pdf/pdf_post.php:95
+msgid "Published"
+msgstr ""
+
+#: template/listing/single-job.php:149
+msgid "Published on"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:526
+#: template/listing/single-job.php:222 template/pdf/pdf_post.php:101
+#: template/private-profile/edit-resume.php:95
+msgid "Qualification"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:590
+msgid "Random"
+msgstr ""
+
+#: template/private-profile/profile-setting-1.php:48
+msgid "Re-type New Password"
+msgstr ""
+
+#: admin/pages/dir_setting.php:423
+msgid "Recaptcha  API Key"
+msgstr ""
+
+#: admin/pages/dir_setting.php:433
+msgid ""
+"Recaptcha: Please keep it blank if you are checking the signup/registration "
+"page on local server/host. If you active/put the Recaptcha key on local host "
+"then registration will not work."
+msgstr ""
+
+#: admin/pages/package_create.php:575 admin/pages/package_update.php:598
+msgid "Recurring Subscription"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:150
+#: template/private-profile/candidates_meeting_schedule.php:139
+#: template/private-profile/candidates_shortlisted.php:140
+msgid "Reject"
+msgstr ""
+
+#: template/private-profile/employer-manage-candidates.php:29
+#: template/private-profile/profile-template-1.php:283
+msgid "Rejected"
+msgstr ""
+
+#: admin/pages/settings.php:305
+msgid "Reminder Email"
+msgstr ""
+
+#: admin/pages/reminder_email.php:3
+msgid "Reminder Email Subject :"
+msgstr ""
+
+#: admin/pages/reminder_email.php:13
+msgid "Reminder Email Tempalte :"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:566
+msgid "Results"
+msgstr ""
+
+#: template/listing/apply-form.php:22
+msgid "Resume (Max 5Mb): "
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:38
+msgid "Role"
+msgstr ""
+
+#: admin/pages/csv-import.php:52
+msgid "Run The importer"
+msgstr ""
+
+#: admin/pages/paypal_update.php:83 admin/pages/stripe_update.php:93
+msgid "Russian Ruble"
+msgstr ""
+
+#: admin/pages/manage-cpt-columns.php:8 template/listing/single-job.php:189
+#: template/listing/single-job.php:394 template/pdf/pdf_post.php:98
+#: template/private-profile/job_bookmark.php:79
+msgid "Salary"
+msgstr ""
+
+#: admin/pages/dir_setting.php:118 template/listing/archive-job-style-2.php:512
+msgid "Salary Range"
+msgstr ""
+
+#: admin/pages/csv-import.php:46
+msgid "Sample CSV File"
+msgstr ""
+
+#: template/private-profile/employer-edit-profile.php:142
+msgid "Save Changes"
+msgstr ""
+
+#: admin/pages/coupon_create.php:5 admin/pages/coupon_create.php:85
+msgid "Save Coupon"
+msgstr ""
+
+#: template/private-profile/job-notifications.php:47
+msgid "Save Notification"
+msgstr ""
+
+#: admin/pages/package_create.php:13 admin/pages/package_create.php:718
+msgid "Save Package"
+msgstr ""
+
+#: admin/pages/payment-settings.php:84
+msgid "Save Payment Gateway"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:485
+msgid "Save Post"
+msgstr ""
+
+#: template/private-profile/candidate-menu.php:90
+#: template/private-profile/employer-menu.php:121
+msgid "Saved Candidate"
+msgstr ""
+
+#: template/private-profile/candidate-bookmarks.php:2
+msgid "Saved Candidate "
+msgstr ""
+
+#: template/private-profile/employer-bookmarks.php:2
+msgid "Saved Company"
+msgstr ""
+
+#: template/private-profile/candidate-menu.php:105
+#: template/private-profile/employer-menu.php:136
+msgid "Saved Employer"
+msgstr ""
+
+#: template/private-profile/employer-menu.php:151
+msgid "Saved Job"
+msgstr ""
+
+#: template/private-profile/job_bookmark.php:6
+msgid "Saved Jobs"
+msgstr ""
+
+#: template/private-profile/candidate_meeting_popup.php:24
+msgid "Schedule Date"
+msgstr ""
+
+#: template/private-profile/employer-manage-candidates.php:26
+msgid "Schedule Meeting"
+msgstr ""
+
+#: template/private-profile/candidate_meeting_popup.php:29
+msgid "Schedule Message/Notes"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:67
+#: template/listing/archive-job-style-2.php:72
+#: template/listing/slider-search.php:127
+#: template/private-profile/profile-template-1.php:271
+msgid "Search"
+msgstr ""
+
+#: template/user-directory/candidate-directory.php:154
+#: template/user-directory/employer-directory.php:156
+msgid "Search "
+msgstr ""
+
+#: template/user-directory/candidate-directory.php:32
+#: template/user-directory/employer-directory.php:33
+msgid "Search..."
+msgstr ""
+
+#: template/private-profile/edit-resume.php:34
+msgid "Sebastiano Piccio"
+msgstr ""
+
+#: admin/pages/coupon_create.php:66 admin/pages/coupon_create.php:72
+#: admin/pages/coupon_update.php:82 admin/pages/coupon_update.php:88
+msgid "Select Date"
+msgstr ""
+
+#: template/private-profile/candidate_meeting_popup.php:26
+msgid "Select Date & time"
+msgstr ""
+
+#: admin/pages/user_update.php:64
+msgid "Select Package"
+msgstr ""
+
+#: template/listing/contact_popup.php:28
+msgid "Send"
+msgstr ""
+
+#: admin/pages/reminder_email.php:29
+msgid "Send Email Before # Days :"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:200
+msgid "Separate with commas"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:512
+msgid "Set Event Image"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:358
+#: template/private-profile/profile-edit-post-1.php:542
+#: template/private-profile/profile-new-post-1.php:510
+msgid "Set Feature Image"
+msgstr ""
+
+#: admin/admin.php:237 admin/pages/city_image.php:65
+#: admin/pages/map_marker.php:79 admin/pages/map_marker.php:134
+#: template/private-profile/profile-template-1.php:261
+msgid "Set Image"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:359
+#: template/private-profile/profile-edit-post-1.php:543
+msgid "Set Image "
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:511
+msgid "Set plan Image"
+msgstr ""
+
+#: admin/pages/dir_setting.php:368
+msgid "Share Job"
+msgstr ""
+
+#: template/listing/single-job.php:286
+msgid "Share This Job"
+msgstr ""
+
+#: template/profile-public/candidate-profile.php:373
+#: template/profile-public/employer-profile.php:254
+msgid "Share This Profile"
+msgstr ""
+
+#: admin/pages/package_all.php:194
+msgid "Short Code :"
+msgstr ""
+
+#: admin/pages/reminder_email.php:38
+msgid "Short Code:"
+msgstr ""
+
+#: template/private-profile/candidates_deleted.php:202
+#: template/private-profile/candidates_meeting_schedule.php:226
+#: template/private-profile/candidates_shortlisted.php:235
+msgid "Short Listed"
+msgstr ""
+
+#: template/private-profile/employer-manage-candidates.php:23
+msgid "Shortlisted"
+msgstr ""
+
+#: admin/pages/dir_setting.php:88 admin/pages/dir_setting.php:105
+#: admin/pages/dir_setting.php:122 admin/pages/dir_setting.php:140
+#: admin/pages/dir_setting.php:158 admin/pages/dir_setting.php:175
+#: admin/pages/dir_setting.php:193 admin/pages/dir_setting.php:211
+#: admin/pages/dir_setting.php:229 admin/pages/dir_setting.php:246
+#: admin/pages/dir_setting.php:263
+msgid "Show"
+msgstr ""
+
+#: admin/pages/dir_setting.php:352
+msgid "Show contact Form"
+msgstr ""
+
+#: admin/pages/dir_setting.php:299
+msgid "Show Details"
+msgstr ""
+
+#: admin/pages/dir_setting.php:15 admin/pages/metabox_full_data.php:329
+#: template/private-profile/profile-edit-post-1.php:502
+#: template/private-profile/profile-new-post-1.php:465
+msgid "Show Email Button"
+msgstr ""
+
+#: admin/pages/dir_setting.php:316
+msgid "Show Listing Map"
+msgstr ""
+
+#: admin/pages/dir_setting.php:333
+msgid "Show Listing Video"
+msgstr ""
+
+#: admin/pages/dir_setting.php:371
+msgid "Show Share listing"
+msgstr ""
+
+#: admin/pages/dir_setting.php:388
+msgid "Show similar properties"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:308
+#: template/private-profile/profile-edit-post-1.php:481
+#: template/private-profile/profile-new-post-1.php:444
+msgid "Show Web Button"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:274
+msgid "Showing page _PAGE_ of _PAGES_"
+msgstr ""
+
+#: template/private-profile/profile-login.php:18
+msgid "Sign In"
+msgstr ""
+
+#: template/private-profile/candidate-menu.php:131
+#: template/private-profile/employer-menu.php:163
+msgid "Sign out"
+msgstr ""
+
+#: admin/pages/settings.php:202
+msgid "Signup / Forget password Email"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:62
+msgid "Signup Thanks"
+msgstr ""
+
+#: admin/pages/settings.php:384
+msgid "Signup user email address will go to the mailchimp list."
+msgstr ""
+
+#: admin/pages/dir_setting.php:385
+msgid "Similar Jobs"
+msgstr ""
+
+#: template/listing/single-job.php:487
+msgid "Simillar Jobs"
+msgstr ""
+
+#: admin/pages/stripe_update.php:88
+msgid "Singapore Dollar ($"
+msgstr ""
+
+#: admin/pages/paypal_update.php:78
+msgid "Singapore Dollar ($)"
+msgstr ""
+
+#: admin/pages/dir_setting.php:292
+msgid "Single Page"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:583
+msgid "SMS"
+msgstr ""
+
+#: admin/pages/dir-demo.php:83
+msgid "Some Important shortcode"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:564
+msgid "Sorry, but no items match these criteria"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:565
+msgid "Sort by"
+msgstr ""
+
+#: admin/pages/paypal_update.php:79 admin/pages/stripe_update.php:89
+msgid "South African Rand"
+msgstr ""
+
+#: admin/pages/paypal_update.php:80 admin/pages/stripe_update.php:90
+msgid "South Korean Won"
+msgstr ""
+
+#: admin/pages/all_coupons.php:41 admin/pages/coupon_create.php:64
+#: admin/pages/coupon_update.php:80
+msgid "Start Date"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:231
+#: template/private-profile/edit-resume.php:280
+#: template/private-profile/edit-resume.php:349
+#: template/private-profile/edit-resume.php:404
+msgid "Start Year"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:108
+#: template/private-profile/employer-edit-profile.php:113
+msgid "State"
+msgstr ""
+
+#: admin/pages/package_all.php:95 admin/pages/payment-settings.php:36
+#: template/private-profile/profile-edit-post-1.php:94
+#: template/private-profile/profile-new-post-1.php:83
+msgid "Status"
+msgstr ""
+
+#: admin/pages/csv-import.php:4
+msgid "Step 1"
+msgstr ""
+
+#: admin/pages/csv-import.php:12
+msgid "Step 2"
+msgstr ""
+
+#: admin/pages/csv-import.php:20
+msgid "Step 3"
+msgstr ""
+
+#: admin/pages/csv-import.php:28
+msgid "Step 4"
+msgstr ""
+
+#: admin/pages/payment-settings.php:57
+msgid "Stripe"
+msgstr ""
+
+#: admin/pages/stripe_update.php:62
+msgid "Stripe API Currency Code"
+msgstr ""
+
+#: admin/pages/stripe_update.php:14
+msgid "Stripe Api Settings"
+msgstr ""
+
+#: admin/pages/package_create.php:587 admin/pages/package_update.php:610
+msgid "Stripe Plan Name(not ID)"
+msgstr ""
+
+#: admin/pages/stripe_update.php:111
+msgid ""
+"Stripe Test to Live mode: When turned from Test to Live did not have any of "
+"the plans you have created on Stripe.\n"
+"\t\t\t\t\t\tWhen you will switch from Stripe to Paypal and PayPal to Stripe "
+"again, the connection between  the plugin and Stripe was corrected and thus "
+"the plans were re-created in the Stripe account."
+msgstr ""
+
+#: admin/pages/map_marker.php:18
+msgid "Sub Category"
+msgstr ""
+
+#: admin/pages/package_create.php:29 admin/pages/package_update.php:31
+msgid "Sub Title"
+msgstr ""
+
+#: template/private-profile/candidate_email_popup.php:23
+#: template/private-profile/contact_popup.php:12
+msgid "Subject"
+msgstr ""
+
+#: template/listing/apply-form.php:29 template/listing/apply_popup.php:54
+#: template/private-profile/candidate_email_popup.php:41
+#: template/private-profile/candidate_meeting_popup.php:34
+#: template/private-profile/contact_popup.php:22
+#: template/private-profile/iv_stripe_form_upgrade.php:124
+#: template/private-profile/profile-login.php:67
+#: template/signup/iv_stripe_form_2.php:149
+#: template/signup/iv_stripe_form_2.php:154
+#: template/signup/paypal_form_2.php:101 template/signup/paypal_form_2.php:107
+#: template/signup/wizard-style-2.php:182
+#: template/signup/wizard-style-2.php:188 template/signup/woocommerce.php:90
+#: template/signup/woocommerce.php:95
+msgid "Submit"
+msgstr ""
+
+#: admin/pages/user_update.php:87
+msgid "Success"
+msgstr ""
+
+#: admin/pages/paypal_update.php:81 admin/pages/stripe_update.php:91
+msgid "Swedish Krona"
+msgstr ""
+
+#: admin/pages/paypal_update.php:82 admin/pages/stripe_update.php:92
+msgid "Swiss Franc"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:491
+#: template/listing/single-job.php:275
+#: template/private-profile/profile-edit-post-1.php:246
+#: template/private-profile/profile-new-post-1.php:227
+msgid "Tags"
+msgstr ""
+
+#: admin/pages/paypal_update.php:84 admin/pages/stripe_update.php:94
+msgid "Taiwan New Dollars"
+msgstr ""
+
+#: template/private-profile/employer-edit-profile.php:49
+#: template/profile-public/employer-profile.php:225
+msgid "Team Size"
+msgstr ""
+
+#: admin/pages/settings.php:135
+msgid "Terms CheckBox"
+msgstr ""
+
+#: admin/pages/settings.php:21
+msgid "Terms CheckBox/Coupon"
+msgstr ""
+
+#: admin/pages/paypal_update.php:28 admin/pages/stripe_update.php:28
+msgid "Test Mode"
+msgstr ""
+
+#: admin/pages/stripe_update.php:56
+msgid "Test Publishable"
+msgstr ""
+
+#: admin/pages/stripe_update.php:50
+msgid "Test Secret"
+msgstr ""
+
+#: admin/pages/paypal_update.php:85 admin/pages/stripe_update.php:95
+msgid "Thai Baht"
+msgstr ""
+
+#: admin/pages/package_create.php:617 admin/pages/package_update.php:641
+msgid "The \"Billing Amount\" will Collect at User Registration."
+msgstr ""
+
+#: admin/pages/package_update.php:565
+msgid "The Initial Amount Collected at User Registration."
+msgstr ""
+
+#: admin/pages/package_create.php:541
+msgid "The initial amount collected at user registration."
+msgstr ""
+
+#: template/signup/wizard-style-2.php:160
+msgid "The password is not strong enough"
+msgstr ""
+
+#: admin/pages/package_create.php:592 admin/pages/package_update.php:615
+msgid ""
+"The plugin will create the Plan on Stripe account automatically. If you get "
+"any payment error then you need to create a Plan on your stripe "
+"account/dashboard and add the name here."
+msgstr ""
+
+#: admin/pages/csv-import.php:44
+msgid ""
+"This tool allows you to import (or merge) job listing data to your site from "
+"a CSV file."
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:119
+#: template/listing/archive-job-style-2.php:588
+#: template/private-profile/candidate-bookmarks.php:18
+#: template/private-profile/employer-bookmarks.php:18
+#: template/private-profile/job_bookmark.php:21
+#: template/private-profile/profile-all-post-1.php:59
+#: template/private-profile/profile-edit-post-1.php:53
+#: template/private-profile/profile-new-post-1.php:42
+msgid "Title"
+msgstr ""
+
+#: template/private-profile/profile-new-post-1.php:34
+msgid "To Add More Post."
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:43
+msgid "To Edit The Post."
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:376
+#: template/listing/archive-job-style-2.php:395
+#: template/listing/archive_feature_listing2.php:152
+#: template/listing/archive_feature_listing2.php:172
+msgid "Today"
+msgstr ""
+
+#: template/signup/coupon_form_2.php:21
+msgid "Total"
+msgstr ""
+
+#: admin/pages/package_create.php:638 admin/pages/package_update.php:662
+msgid "Trial"
+msgstr ""
+
+#: admin/pages/package_create.php:649 admin/pages/package_update.php:673
+msgid "Trial Amount"
+msgstr ""
+
+#: admin/pages/package_create.php:656 admin/pages/package_update.php:680
+msgid "Trial Period"
+msgstr ""
+
+#: admin/pages/paypal_update.php:86 admin/pages/stripe_update.php:96
+msgid "Turkish Lira"
+msgstr ""
+
+#: admin/pages/package_all.php:93 admin/pages/user_directory_admin.php:39
+#: template/signup/wizard-style-2.php:120
+msgid "Type"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:253
+#: template/private-profile/candidates_deleted.php:126
+#: template/private-profile/candidates_deleted.php:220
+#: template/private-profile/candidates_meeting_schedule.php:245
+#: template/private-profile/candidates_shortlisted.php:253
+msgid "Undo Reject"
+msgstr ""
+
+#: template/private-profile/candidates_all.php:236
+#: template/private-profile/profile-template-1.php:282
+msgid "Undo Shortlisted"
+msgstr ""
+
+#: admin/pages/directory_fields.php:17 admin/pages/directory_fields.php:110
+#: admin/pages/dir_setting.php:487 admin/pages/profile-fields.php:10
+#: admin/pages/profile-fields.php:272 admin/pages/setting-pages-all.php:242
+#: admin/pages/settings.php:125 admin/pages/settings.php:176
+#: template/private-profile/edit-resume.php:567
+msgid "Update"
+msgstr ""
+
+#: admin/pages/coupon_update.php:16 admin/pages/coupon_update.php:20
+#: admin/pages/coupon_update.php:105
+msgid "Update Coupon"
+msgstr ""
+
+#: admin/pages/settings.php:320
+msgid "Update Email Setting"
+msgstr ""
+
+#: admin/pages/settings.php:328 admin/pages/settings.php:391
+msgid "Update MailChimp Setting"
+msgstr ""
+
+#: admin/pages/package_update.php:14 admin/pages/package_update.php:749
+msgid "Update Package"
+msgstr ""
+
+#: admin/pages/package_update.php:18
+msgid "Update Package / Membership Level"
+msgstr ""
+
+#: template/private-profile/profile-edit-post-1.php:520
+msgid "Update Post"
+msgstr ""
+
+#: admin/pages/paypal_update.php:95 admin/pages/stripe_update.php:105
+msgid "Update Settings"
+msgstr ""
+
+#: admin/pages/package_all.php:58
+msgid "Update Successfully"
+msgstr ""
+
+#: admin/pages/user_update.php:118
+msgid "Update User"
+msgstr ""
+
+#: admin/admin.php:604 admin/admin.php:682 admin/admin.php:1021
+#: admin/admin.php:1049 admin/admin.php:1073 admin/admin.php:1100
+#: admin/admin.php:1140 admin/admin.php:1156 admin/admin.php:1288
+msgid "Updated Successfully"
+msgstr ""
+
+#: admin/admin.php:1264
+msgid "Updated Successfully: Your current gateway is "
+msgstr ""
+
+#: template/private-profile/profile-level-1.php:25
+#: template/private-profile/profile-level-1.php:243
+#: template/private-profile/profile-level-1.php:318
+msgid "Upgrade"
+msgstr ""
+
+#: admin/pages/csv-import.php:8 admin/pages/csv-import.php:38
+msgid "Upload CSV File"
+msgstr ""
+
+#: admin/pages/paypal_update.php:58 admin/pages/stripe_update.php:68
+msgid "US Dollars ($)"
+msgstr ""
+
+#: admin/pages/coupon_create.php:58 admin/pages/coupon_update.php:74
+msgid "Usage Limit"
+msgstr ""
+
+#: admin/pages/settings.php:257
+msgid "User Email Subject :"
+msgstr ""
+
+#: admin/pages/settings.php:266
+msgid "User Email Tempalte :"
+msgstr ""
+
+#: admin/pages/metabox.php:14
+msgid "User ID :"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:100
+msgid "User Info"
+msgstr ""
+
+#: template/private-profile/candidate-menu.php:27
+msgid "User Level"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:106
+msgid "User My Account"
+msgstr ""
+
+#: admin/pages/user_directory_admin.php:34 admin/pages/user_update.php:21
+#: template/signup/wizard-style-2.php:143
+msgid "User Name"
+msgstr ""
+
+#: admin/pages/user_update.php:55
+msgid "User Package"
+msgstr ""
+
+#: admin/pages/settings.php:92
+msgid "User Registration Page Redirect:"
+msgstr ""
+
+#: admin/pages/package_all.php:94 admin/pages/user_update.php:33
+#: template/private-profile/profile-level-1.php:115
+msgid "User Role"
+msgstr ""
+
+#: admin/pages/package_all.php:190
+msgid ""
+"User role \"Basic\" is created on the plugin activation. Paid exprired or "
+"unsuccessful payment user will set on the \"Basic\" user role."
+msgstr ""
+
+#: admin/pages/settings.php:20 admin/pages/user_directory_admin.php:10
+msgid "User Setting"
+msgstr ""
+
+#: admin/pages/user_update.php:10
+msgid "User Settings: Edit"
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:40
+msgid "User Sign Up:"
+msgstr ""
+
+#: admin/pages/user_update.php:93
+msgid "User Type"
+msgstr ""
+
+#: template/signup/wizard-style-2.php:109
+msgid "User_or_Email_Exists"
+msgstr ""
+
+#: template/private-profile/profile-login.php:24
+msgid "Username"
+msgstr ""
+
+#: admin/pages/all_coupons.php:43
+msgid "Uses Limit"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:194 template/listing/single-job.php:157
+#: template/listing/single-job.php:305 template/pdf/pdf_post.php:93
+#: template/private-profile/profile-edit-post-1.php:377
+#: template/private-profile/profile-new-post-1.php:351
+msgid "Vacancy"
+msgstr ""
+
+#: admin/pages/dir_setting.php:330
+msgid "Video"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:215
+#: template/private-profile/profile-edit-post-1.php:398
+#: template/private-profile/profile-new-post-1.php:374
+msgid "Videos "
+msgstr ""
+
+#: admin/pages/setting-pages-all.php:35 admin/pages/setting-pages-all.php:57
+#: admin/pages/setting-pages-all.php:79 admin/pages/setting-pages-all.php:101
+#: admin/pages/setting-pages-all.php:123 admin/pages/setting-pages-all.php:149
+#: admin/pages/setting-pages-all.php:176 admin/pages/setting-pages-all.php:205
+#: admin/pages/setting-pages-all.php:230
+msgid "View"
+msgstr ""
+
+#: admin/pages/dir-demo.php:24
+msgid "View All Listing"
+msgstr ""
+
+#: template/private-profile/profile-all-post-1.php:125
+msgid "View Count"
+msgstr ""
+
+#: admin/pages/package_all.php:205
+msgid "View Page"
+msgstr ""
+
+#: template/private-profile/profile-template-1.php:93
+#: template/user-directory/candidate-directory.php:316
+msgid "View Profile"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:228
+#: template/private-profile/profile-edit-post-1.php:407
+#: template/private-profile/profile-new-post-1.php:385
+msgid "vimeo"
+msgstr ""
+
+#: template/listing/archive-job-style-2.php:586 template/pdf/pdf_post.php:86
+msgid "Web"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:305
+#: template/private-profile/profile-edit-post-1.php:478
+#: template/private-profile/profile-new-post-1.php:441
+msgid "Web Button"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:102
+#: template/private-profile/profile-edit-post-1.php:164
+#: template/private-profile/profile-new-post-1.php:150
+msgid "Web Site"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:52
+#: template/private-profile/employer-edit-profile.php:37
+#: template/profile-public/candidate-profile.php:289
+#: template/profile-public/candidate-profile.php:291
+msgid "Website"
+msgstr ""
+
+#: admin/pages/package_create.php:565 admin/pages/package_create.php:611
+#: admin/pages/package_create.php:670 admin/pages/package_update.php:588
+#: admin/pages/package_update.php:635 admin/pages/package_update.php:697
+msgid "Week(s)"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:46
+msgid "Whatsapp"
+msgstr ""
+
+#: admin/pages/package_create.php:528 admin/pages/package_update.php:554
+msgid "Will Add On Featured List (show on top)"
+msgstr ""
+
+#: admin/pages/package_create.php:690 admin/pages/package_update.php:717
+msgid "Woocommerce Product"
+msgstr ""
+
+#: template/profile-public/candidate-profile.php:167
+msgid "Work & Experiance"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:329
+msgid "Work & Experience"
+msgstr ""
+
+#: template/pdf/pdf_cv.php:88
+msgid "Work & Experince"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:202
+#: template/private-profile/profile-edit-post-1.php:385
+#: template/private-profile/profile-new-post-1.php:359
+msgid "Workplace"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:258 admin/pages/package_update.php:58
+#: template/private-profile/profile-edit-post-1.php:433
+msgid "X"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:465
+#: template/private-profile/edit-resume.php:504
+msgid "Year"
+msgstr ""
+
+#: template/pdf/pdf_cv.php:120
+msgid "Year : "
+msgstr ""
+
+#: admin/pages/package_create.php:567 admin/pages/package_create.php:613
+#: admin/pages/package_create.php:672 admin/pages/package_update.php:590
+#: admin/pages/package_update.php:637 admin/pages/package_update.php:699
+msgid "Year(s)"
+msgstr ""
+
+#: admin/pages/new-message.php:13
+msgid "Yes, Admin will  get all message."
+msgstr ""
+
+#: template/private-profile/iv_stripe_form_upgrade.php:108
+#: template/signup/iv_stripe_form_2.php:127
+#: template/signup/paypal_form_2.php:82
+msgid "You have to agree to our terms"
+msgstr ""
+
+#: admin/pages/metabox_full_data.php:224
+#: template/private-profile/profile-edit-post-1.php:403
+#: template/private-profile/profile-new-post-1.php:381
+msgid "Youtube"
+msgstr ""
+
+#: template/private-profile/edit-resume.php:120
+#: template/private-profile/employer-edit-profile.php:107
+msgid "Zip Code"
+msgstr ""
+
+#: admin/pages/dir_setting.php:225 template/listing/archive-job-style-2.php:152
+#: template/listing/archive-job-style-2.php:547
+msgid "Zipcode"
+msgstr ""
+
+#: template/user-directory/candidate-directory.php:343
+#: template/user-directory/employer-directory.php:336
+msgid "« Prev"
+msgstr ""
